@@ -10,7 +10,7 @@ function Navbar() {
         <ul class="md:px-2 ml-auto md:flex md:space-x-2 absolute md:relative top-full left-0 right-0">
             <NavLink to={"/"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-100  active:">
                     <span>Home</span>
                 </a>
             </li>
