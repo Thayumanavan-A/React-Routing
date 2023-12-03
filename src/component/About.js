@@ -14,7 +14,7 @@ function About() {
         About US
       </h2>
       <p class="text-base text-gray-700 md:text-lg">
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo quas ut odio voluptatem commodi vitae quaerat numquam. Ea, sequi delectus!
       </p>
     </div>
     <div class="flex items-center">
